@@ -1,0 +1,1 @@
+8888 portu üzerinden gallery ve product microservice lerine erişilebilmektedir.
